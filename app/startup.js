@@ -5,3 +5,4 @@
 
 require('./nursery-rhymes');
 require('./humpty/humpty-dumpty');
+require('./diddle/hey-diddle-diddle');
